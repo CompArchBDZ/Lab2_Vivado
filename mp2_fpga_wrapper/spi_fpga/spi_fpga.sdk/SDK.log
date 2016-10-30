@@ -672,3 +672,81 @@ con
 00:43:39 INFO  : ps7_init is completed.
 00:43:40 INFO  : ps7_post_config is completed.
 00:48:30 ERROR : Unexpected error while parsing XMD response ￿: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+18:38:38 INFO  : Launching XSDB server: xsdb -n -interactive /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/temp_xsdb_launch_script.tcl
+18:38:41 INFO  : XSDB server has started successfully.
+18:38:42 INFO  : Processing command line option -hwspec /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper.hdf.
+18:40:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:40:07 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zybo 210279652019A" && level==0} -index 1' command is executed.
+18:40:12 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+18:42:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:42:52 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zybo 210279652019A" && level==0} -index 1' command is executed.
+18:42:54 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+18:43:14 INFO  : System reset is completed.
+18:43:17 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:43:19 INFO  : ps7_init is completed.
+18:43:19 INFO  : ps7_post_config is completed.
+18:44:51 INFO  : System reset is completed.
+18:44:53 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:44:56 INFO  : ps7_init is completed.
+18:44:56 INFO  : ps7_post_config is completed.
+18:45:31 INFO  : System reset is completed.
+18:45:34 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:45:36 INFO  : ps7_init is completed.
+18:45:36 INFO  : ps7_post_config is completed.
+18:52:15 ERROR : Unexpected error while parsing XMD response ￿: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+18:52:48 INFO  : Launching XSDB server: xsdb -n -interactive /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/temp_xsdb_launch_script.tcl
+18:52:51 INFO  : XSDB server has started successfully.
+18:52:51 INFO  : Processing command line option -hwspec /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper.hdf.
+18:52:51 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_4.
+18:53:12 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:53:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zybo 210279652019A" && level==0} -index 1' command is executed.
+18:53:18 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+18:53:34 INFO  : System reset is completed.
+18:53:37 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:53:39 INFO  : ps7_init is completed.
+18:53:39 INFO  : ps7_post_config is completed.
+18:54:31 INFO  : System reset is completed.
+18:54:33 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:54:36 INFO  : ps7_init is completed.
+18:54:36 INFO  : ps7_post_config is completed.
+22:24:31 INFO  : Launching XSDB server: xsdb -n -interactive /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/temp_xsdb_launch_script.tcl
+22:24:33 INFO  : XSDB server has started successfully.
+22:24:34 INFO  : Processing command line option -hwspec /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper.hdf.
+22:24:34 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_4.
+01:06:38 INFO  : Launching XSDB server: xsdb -n -interactive /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/temp_xsdb_launch_script.tcl
+01:06:40 INFO  : XSDB server has started successfully.
+01:06:40 INFO  : Processing command line option -hwspec /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper.hdf.
+01:06:41 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_4.
+01:06:46 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1477789565000,  Project:1477766084000
+01:06:46 INFO  : The hardware specification for project 'design_1_wrapper_hw_platform_4' is different from /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper.hdf.
+01:06:46 INFO  : Copied contents of /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper.hdf into /design_1_wrapper_hw_platform_4/system.hdf.
+01:07:05 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+01:07:05 INFO  : Clearing existing target manager status.
+01:07:08 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+01:07:08 WARN  : Linker script will not be updated automatically. Users need to update it manually.
+01:08:25 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:08:26 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zybo 210279652019A" && level==0} -index 1' command is executed.
+01:08:29 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+01:08:51 INFO  : System reset is completed.
+01:08:54 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+01:08:56 INFO  : ps7_init is completed.
+01:08:56 INFO  : ps7_post_config is completed.
+01:13:57 ERROR : Unexpected error while parsing XMD response ￿: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+01:14:20 INFO  : Launching XSDB server: xsdb -n -interactive /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/temp_xsdb_launch_script.tcl
+01:14:22 INFO  : XSDB server has started successfully.
+01:14:22 INFO  : Processing command line option -hwspec /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper.hdf.
+01:14:22 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_4.
+01:14:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:14:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zybo 210279652019A" && level==0} -index 1' command is executed.
+01:14:44 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+01:19:08 INFO  : Launching XSDB server: xsdb -n -interactive /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/temp_xsdb_launch_script.tcl
+01:19:10 INFO  : XSDB server has started successfully.
+01:19:10 INFO  : Processing command line option -hwspec /home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper.hdf.
+01:19:10 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_4.
+01:19:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:19:45 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zybo 210279652019A" && level==0} -index 1' command is executed.
+01:19:50 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+01:20:18 INFO  : System reset is completed.
+01:20:21 INFO  : FPGA configured successfully with bitstream "/home/vagrant/Lab2_Vivado/mp2_fpga_wrapper/spi_fpga/spi_fpga.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+01:20:23 INFO  : ps7_init is completed.
+01:20:23 INFO  : ps7_post_config is completed.
